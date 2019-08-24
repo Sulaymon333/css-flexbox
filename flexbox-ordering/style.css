@@ -73,6 +73,9 @@ html {
 
 .box8 {
   background: #1ca7c0;
+  -webkit-box-ordinal-group: 6;
+      -ms-flex-order: 5;
+          order: 5;
 }
 
 .box9 {
