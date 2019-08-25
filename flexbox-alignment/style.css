@@ -18,8 +18,8 @@ html {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-line-pack: start;
-      align-content: flex-start;
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   border: 10px solid #19c499;
@@ -71,5 +71,9 @@ html {
 
 .box9 {
   background: #7590eb;
+}
+
+.box10 {
+  background: #0e8fe6;
 }
 /*# sourceMappingURL=style.css.map */
